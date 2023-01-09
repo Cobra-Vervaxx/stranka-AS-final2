@@ -1,4 +1,8 @@
-.menu {
+/*
+menu
+*/
+.menu 
+{
     background: red;
     color: aliceblue;
     display: flex;
@@ -11,12 +15,18 @@
 
 }
 
-.menu :first-child {
+.menu :first-child 
+{
     display: flex;
     flex-direction: row;
     column-gap: 1rem;
 }
-body{
+/*
+body
+*/
+
+body
+{
 background-image: url(educationback.jpg);
 overflow: auto;
 height: 100%;
@@ -119,11 +129,11 @@ cursor: pointer;
     cursor: pointer;
 }
 
-#recenze:hover
+#purpose:hover
 {
     cursor: pointer;
 }
-#proferors:hover
+#profesors:hover
 {
     cursor: pointer;
 }
@@ -138,12 +148,14 @@ cursor: pointer;
     color:red;
     text-align: center;
 }
+
 #fifth
 {
     color: red;
     text-align: center;
-   
+
 }
+
 #fifth1
 {
     text-align: left;
