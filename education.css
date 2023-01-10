@@ -1,6 +1,4 @@
-/*
-menu
-*/
+
 .menu 
 {
     background: red;
@@ -21,9 +19,7 @@ menu
     flex-direction: row;
     column-gap: 1rem;
 }
-/*
-body
-*/
+
 
 body
 {
@@ -219,6 +215,11 @@ cursor: pointer;
   html {
     overflow: hidden;
   }
-  
+  #copy
+  {
+    height: 50px;
+  }
+
+
 
   
