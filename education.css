@@ -1,4 +1,7 @@
-
+*
+{
+    margin:0px;
+}
 .menu 
 {
     background: red;
@@ -29,6 +32,7 @@ height: 100%;
 background-size: cover;
 background-position: center;
 
+
 }
 #nadpis
 {
@@ -49,6 +53,10 @@ background-position: center;
 {
     text-align: center;
   
+}
+#second
+{
+    margin-top: 20px;
 }
 
 
@@ -137,18 +145,21 @@ cursor: pointer;
 {
     color:red;
     text-align: center;
+    margin-top: 20px;
     
 }
 #fourth
 {
     color:red;
     text-align: center;
+    margin-top:20px;
 }
 
 #fifth
 {
     color: red;
     text-align: center;
+    margin-top: 20px;
 
 }
 
