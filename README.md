@@ -1,0 +1,1 @@
+# stranka-AS-final2
